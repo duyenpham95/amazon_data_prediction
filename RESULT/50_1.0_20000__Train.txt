@@ -1,0 +1,1 @@
+Info of returned Ws: best epoch 6421, train err 10.380952, val err 12.971429
